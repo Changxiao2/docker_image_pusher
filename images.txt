@@ -1,1 +1,1 @@
-adolfintel/speedtest:latest
+manlongdan/qbittorrentee:4.5.0.10

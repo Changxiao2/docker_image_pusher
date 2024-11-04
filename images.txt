@@ -1,1 +1,1 @@
-manlongdan/qbittorrentee:4.4.3.12
+manlongdan/qbittorrentee:4.4.3.11

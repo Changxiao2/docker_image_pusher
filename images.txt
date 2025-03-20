@@ -1,1 +1,1 @@
-homebridge/homebridge:2025-02-26
+homebridge/homebridge:ubuntu

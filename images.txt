@@ -1,1 +1,1 @@
-pull homebridge/homebridge:d0b3548f5861a6838b29f562aef625835e71e64929e468348dd4eccd3e4eebd3
+docker pull homebridge/homebridge:2025-02-26

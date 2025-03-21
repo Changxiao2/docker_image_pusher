@@ -1,1 +1,1 @@
-docker pull homebridge/homebridge:2025-02-26
+pull homebridge/homebridge
